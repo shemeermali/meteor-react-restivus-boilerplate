@@ -19,11 +19,16 @@ Add Data to DB
 `meteor mongo`
 
 `db.items.insert({ name: "Item 1"});`
+
 `db.items.insert({ name: "Item 2"});`
+
 `db.items.insert({ name: "Item 3"});`
 
+
 Item list in UI-: http://localhost:3000/items
+
 Item list as API-:http://localhost:3000/api/items/
+
 
 Running on mobile platforms-: https://www.meteor.com/tutorials/blaze/running-on-mobile
 
